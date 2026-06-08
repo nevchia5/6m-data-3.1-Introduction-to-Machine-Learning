@@ -1,13 +1,20 @@
 # Before Class — L01 — Introduction to Machine Learning
 
-**Estimated time: ~25 minutes.** Complete this before class.
+**Estimated time: ~30 minutes.** Complete this before class.
 
-This is the simplest version of "show up prepared": run one notebook, answer a few questions. You'll come to class having seen the idea in action.
+This is the simplest version of "show up prepared": watch a short intro video, run one notebook, answer a few questions. You'll come to class having seen the idea in action.
 
 | Step | Time | What you do |
 |---|---|---|
-| **1. Try it** | ~20 min | Open and run `notebooks/01_monday_morning.ipynb` |
-| **2. Reflect** | ~5 min  | Three short questions below |
+| **1. Watch the intro video** | ~5 min  | [L01 intro video on YouTube](https://youtu.be/WreyTgflGmU) — sets up Sarah's story and what you'll do in this lesson |
+| **2. Try it** | ~20 min | Open and run `notebooks/01_monday_morning.ipynb` |
+| **3. Reflect** | ~5 min  | Three short questions below |
+
+---
+
+## Step 0 — Watch the intro video (~5 min)
+
+Before you open the notebook, watch the short intro video: **[https://youtu.be/WreyTgflGmU](https://youtu.be/WreyTgflGmU)**. It's under 5 minutes and frames the problem you're about to solve. Watching this first makes the notebook click faster.
 
 ---
 
